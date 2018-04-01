@@ -1,0 +1,69 @@
+.myCarousel{
+
+margin:50px 0 0 0;
+
+}
+.carousel-inner img{
+    margin:0 auto;
+}
+.tab-h2{
+ font-size:30px;
+ text-align: center;
+ letter-spacing: 1px;
+ color:#E55251;
+
+}
+.tab-p{
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 1px;
+    margin:20px 0 40px 0;
+}
+body{ font-family: Microsoft YaHei,'宋体' , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;
+ color:#666;
+}
+.tab1{
+    margin:30px 0;
+    color:#666;
+}
+.tab1 .text-muted{
+    color:#999;
+}
+.tab1 .media-heading{
+    margin: 140px 0 15px 0;
+}
+.tab1 .col{
+    padding:30px; 
+}
+#footer{
+    background: #eee;
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+}
+.tab3 img{
+    width:80%;
+    height:80%;
+  padding: 60px 0;
+
+}
+.tab3{
+    text-align: center;
+}
+.tab2{
+    background: #fafafa;
+    text-align: center;
+}
+.tab2 h3{
+    color: #edd8d7;
+
+}
+.tab2 img{
+    width:90%;
+    height: 90%;
+ padding: 40px 0;
+}
+.font{
+padding-top: 53px;
+
+}
